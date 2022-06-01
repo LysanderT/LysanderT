@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LysanderT
 - 👀 I’m interested in python and some basic tools.
-- 🌱 I’m currently learning cs61a(ucb) & missing-semester(mit).
+- 🌱 I’m currently learning cs61a.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
