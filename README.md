@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LysanderT
 - 👀 I’m interested in python, c艹 and some basic tools.
 - 🌱 I’m currently learning cs61a and cs106b.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on solving assignments of cs106b.
 - 📫 How to reach me ...
 
 <!---
