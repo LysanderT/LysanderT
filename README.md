@@ -7,7 +7,7 @@
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/LysanderT"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" ></a>
 <a title="Lysander's Blog" target="_blank" href="https://lysandert.github.io/"><img src="https://img.shields.io/badge/Lysander's-%20Blog-success?style=plastic" ></a>
-<a title="School Email" target="_blank" href="mailto:121090088@link.cuhk.edu.cn"><img src="https://img.shields.io/badge/School-Email-important?style=plastic" ></a>
+<a title="School Email" target="_blank" href="mailto:LetianCheng@link.cuhk.edu.cn"><img src="https://img.shields.io/badge/School-Email-important?style=plastic" ></a>
 <a title="Personal Email" target="_blank" href="mailto:LysanderCheng7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" ></a>
 </p>
 
